@@ -38,7 +38,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    color: #818181;
+    color: #c1c1c1;
     line-height: 22px;
     overflow-y: hidden;
     overflow-x: hidden;
@@ -50,7 +50,7 @@ body.blog {
     overflow-x: auto;   
 }
 a {
-    color: #818181;
+    color: #c1c1c1;
     text-decoration: none;
     transition-duration: .2s;
     -moz-transition-duration: .2s;
@@ -124,7 +124,7 @@ input[type="text"], textarea {
 input[type="submit"] {
     border: 2px solid #7dba5c;
     background-color: transparent;
-    color: #818181;
+    color: #c1c1c1;
     font-weight: 400;
     font-family: 'Oswald', sans-serif;
     font-size: 16px;
@@ -166,7 +166,7 @@ input[type="text"], input[type="email"], input[type="search"], input[type="passw
 h1, h2, h3, h4, h5 {
     font-weight: 400;
     font-family: 'Oswald', sans-serif;
-    color: #818181;
+    color: #c1c1c1;
     text-transform: uppercase;
 }
 .blog h1, .blog h2, .blog h3, .blog h4, .blog h5{
@@ -224,7 +224,7 @@ h5 {
     border: 2px solid #7dba5c;
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
-    color: #818181;
+    color: #c1c1c1;
     font-size: 16px;
     text-transform: uppercase;
     margin: 20px 0;
@@ -405,7 +405,7 @@ h5 {
     font-family: 'Oswald', sans-serif;
     font-size: 14px;
     font-weight: 300;
-    color: #818181;
+    color: #c1c1c1;
     text-transform: uppercase;
     transition-duration: .2s;
     -moz-transition-duration: .2s;
@@ -611,11 +611,11 @@ a.totop-link {
    ========================================================================== */
 
 .about {
-    background: url(http://placehold.it/804x1080/000) no-repeat 100% 0 scroll #000;
+    background: url(../images/macbook-dark.jpg) no-repeat 100% 0 scroll #000;
     background-size: contain;
 }
 .about .inner {
-    width: 60%;
+    width: 80%;
 }
 .about img {
     position: absolute;
@@ -667,7 +667,7 @@ a.totop-link {
 }
 .skills-con .col-6:hover .chart .percent {
     font-size: 45px;
-    color: #818181;
+    color: #c1c1c1;
     transition-duration: .1s;
     -moz-transition-duration: .1s;
     -webkit-transition-duration: .1s;
@@ -792,7 +792,7 @@ a.totop-link {
 }
 .experience-details:hover i {
     font-size: 73px;
-    color: #818181;
+    color: #c1c1c1;
 }
 .experience-details:hover .col-3 {
     width: 29%;
@@ -833,7 +833,7 @@ a.totop-link {
 }
 .education-details:hover i {
     font-size: 73px;
-    color: #818181;
+    color: #c1c1c1;
 }
 .education-details:hover .col-3 {
     width: 29%;
@@ -882,7 +882,7 @@ a.totop-link {
     -o-transition-duration: .2s;
 }
 .contact-text:hover i {
-    color: #818181;
+    color: #c1c1c1;
 }
 .contact-social i {
     color: #797979;
@@ -901,7 +901,7 @@ a.totop-link {
     -o-transition-duration: .2s;
 }
 .contact-social i:hover {
-    color: #818181;
+    color: #c1c1c1;
 }
 .contact-form {
 }
@@ -912,7 +912,7 @@ a.totop-link {
    #Last Screen
    ========================================================================== */
 .introduction-end {
-    background: url(http://placehold.it/1608x1080/000)no-repeat right top;
+    background: url(../images/contact.jpg)no-repeat right top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -926,7 +926,7 @@ a.totop-link {
 }
 .introduction-end-con h3 {
     font-size: 55px;
-    color: #818181;
+    color: #c1c1c1;
     line-height: 100px;
 }
 .introduction-end-con h3 strong {
@@ -938,7 +938,7 @@ a.totop-link {
 }
 .introduction-end-con .rotate {
     font-weight: 300;
-    color: #818181;
+    color: #c1c1c1;
     font-size: 55px;
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
@@ -1025,7 +1025,7 @@ iframe, embed, object {
     line-height: 25px
 }
 .blog-list-details h3 a {
-    color: #818181;
+    color: #c1c1c1;
 }
 .date {
     color: #787878;
@@ -1054,7 +1054,7 @@ iframe, embed, object {
 .blog-right .search {
     background: url("../images/icon-search.png") no-repeat scroll 95% center rgba(0, 0, 0, 0);
     border: 1px solid rgba(235,235,235,0.2);
-    color: #818181;
+    color: #c1c1c1;
     font-size: 13px;
     margin: 0;
     padding: 10px;
@@ -1113,7 +1113,7 @@ iframe, embed, object {
 .tagcloud a:hover {
     background: #000;
     border: 1px solid #2d2d2d;
-    color: #818181;
+    color: #c1c1c1;
 }
 .pagination {
     border-top: 1px solid rgba(235,235,235,0.2);
@@ -1147,7 +1147,7 @@ iframe, embed, object {
     border: 2px solid rgba(235,235,235,0.4);
 }
 .pagerblock li a i {
-    color: #818181;
+    color: #c1c1c1;
     font-size: 22px;
     line-height: 35px;
 }
